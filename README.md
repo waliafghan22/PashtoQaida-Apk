@@ -6,9 +6,8 @@
 ### 📚 Learn Pashto Alphabet - For Kids Age 4-10
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.3.10-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-1.7.0-4285F4?logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
+[![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-1.7.3-4285F4?logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
 [![Platform](https://img.shields.io/badge/Platform-Android%20|%20Desktop%20|%20iOS-green)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <img src="[screenshots/app_icon.png](https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/icons/pashto-qaida-icon.webp)" alt="Pashto Qaida Logo" width="150"/>
 
@@ -84,7 +83,7 @@
 
 | Home Screen | Letters Grid | Letter Detail |
 |:-----------:|:------------:|:-------------:|
-| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/letters.png" width="250"/> | <img src="screenshots/letter_detail.png" width="250"/> |
+| <img src="[screenshots/home.png](https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-1.webp)" width="250"/> | <img src="screenshots/letters.png" width="250"/> | <img src="screenshots/letter_detail.png" width="250"/> |
 
 | Writing Practice | Quiz Game | Progress |
 |:----------------:|:---------:|:--------:|
