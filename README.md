@@ -9,7 +9,7 @@
 [![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-1.7.3-4285F4?logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
 [![Platform](https://img.shields.io/badge/Platform-Android%20|%20Desktop%20|%20iOS-green)]()
 
-<img src="[screenshots/app_icon.png](https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/icons/pashto-qaida-icon.webp)" alt="Pashto Qaida Logo" width="150"/>
+<img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/icons/pashto-qaida-icon.webp" alt="Pashto Qaida Logo" width="150"/>
 
 **A beautiful, interactive app to teach children the Pashto alphabet**
 
@@ -83,11 +83,11 @@
 
 | Home Screen | Letters Grid | Letter Detail |
 |:-----------:|:------------:|:-------------:|
-| <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-1.webp?raw=true" width="250"/> | <img src="screenshots/letters.png" width="250"/> | <img src="screenshots/letter_detail.png" width="250"/> |
+| <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-1.webp?raw=true" width="250"/> | <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-2.webp" width="250"/> | <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-3.webp" width="250"/> |
 
 | Writing Practice | Quiz Game | Progress |
 |:----------------:|:---------:|:--------:|
-| <img src="screenshots/writing.png" width="250"/> | <img src="screenshots/quiz.png" width="250"/> | <img src="screenshots/progress.png" width="250"/> |
+| <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-4.webp" width="250"/> | <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-5.webp" width="250"/> | <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-6.webp" width="250"/> |
 
 </div>
 
@@ -98,10 +98,10 @@
 
 | Component | Technology |
 |-----------|------------|
-| **Framework** | [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) 1.7.0+ |
+| **Framework** | [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) 1.7.3+ |
 | **Language** | [Kotlin](https://kotlinlang.org/) 2.3.10+ |
-| **Database** | [SQLDelight](https://cashapp.github.io/sqldelight/) 2.0.0+ |
-| **DI** | [Koin](https://insert-koin.io/) 4.0.0+ |
+| **Database** | [SQLDelight](https://cashapp.github.io/sqldelight/) 2.2.0+ |
+| **DI** | [Koin](https://insert-koin.io/) 4.1.1+ |
 | **Navigation** | Navigation 3 + Adaptive Layouts |
 | **ViewModel** | Lifecycle ViewModel (Official) |
 | **Animations** | [Compottie](https://github.com/nicholasdille/compottie) (Lottie) |
