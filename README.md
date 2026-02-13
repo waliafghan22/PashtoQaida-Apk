@@ -83,7 +83,7 @@
 
 | Home Screen | Letters Grid | Letter Detail |
 |:-----------:|:------------:|:-------------:|
-| <img src="[screenshots/home.png](https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-1.webp)" width="250"/> | <img src="screenshots/letters.png" width="250"/> | <img src="screenshots/letter_detail.png" width="250"/> |
+| <img src="https://github.com/waliafghan22/waliafghan22.github.io/blob/main/images/projects/pashto-qaida-1.webp?raw=true" width="250"/> | <img src="screenshots/letters.png" width="250"/> | <img src="screenshots/letter_detail.png" width="250"/> |
 
 | Writing Practice | Quiz Game | Progress |
 |:----------------:|:---------:|:--------:|
