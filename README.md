@@ -29,7 +29,6 @@
 - 👨‍👩‍👧‍👦 **For Diaspora Families** - Overseas Pashtun families can teach kids their mother tongue
 - 🏫 **Schools & Madrassas** - Perfect for educational institutions
 - 📱 **Modern Learning** - Interactive, gamified approach kids love
-- 🆓 **Free & Open Source** - Available to everyone, forever
 
 ---
 
