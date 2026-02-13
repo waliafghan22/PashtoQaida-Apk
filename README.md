@@ -21,7 +21,7 @@
 
 ## 🌟 About
 
-**Pashto Qaida** is a free, open-source educational app designed to help children aged 4-10 learn the Pashto alphabet. With colorful visuals, native audio pronunciation, interactive writing practice, and fun quizzes, learning Pashto has never been more engaging!
+**Pashto Qaida** is a free, educational app designed to help children aged 4-10 learn the Pashto alphabet. With colorful visuals, native audio pronunciation, interactive writing practice, and fun quizzes, learning Pashto has never been more engaging!
 
 ### Why This App?
 
